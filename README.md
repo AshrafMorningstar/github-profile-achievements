@@ -1,111 +1,83 @@
-/*
- Copyright (c) 2026 Ashraf Morningstar
- These are personal recreations of existing projects, developed by Ashraf Morningstar
- for learning and skill development.
- Original project concepts remain the intellectual property of their respective creators.
- Repository: https://github.com/AshrafMorningstar
-*/
-
-# 🏆 GitHub Profile Achievements & Badges
-<div align="center">
-  <img src="https://github.com/AshrafMorningstar/github-profile-achievements/blob/main/assets/hero-3d-globe.gif?raw=true" alt="Interactive 3D Achievements Globe" width="400"/>
-  <br><em>Unlock your GitHub profile's full potential – Complete list of all badges, achievements, and highlights with unlock guides.</em>
-</div>
-
-[![Stars](https://img.shields.io/github/stars/AshrafMorningstar/github-profile-achievements?style=social)](https://github.com/AshrafMorningstar/github-profile-achievements/stargazers/)
-[![Forks](https://img.shields.io/github/forks/AshrafMorningstar/github-profile-achievements?style=social)](https://github.com/AshrafMorningstar/github-profile-achievements/network/members/)
-[![Issues](https://img.shields.io/github/issues/AshrafMorningstar/github-profile-achievements)](https://github.com/AshrafMorningstar/github-profile-achievements/issues)
-
-## 🎖️ Achievements List
-Interactive table below shows all GitHub profile achievements. Hover for details and unlock tips. Click badges for live previews [web:1][web:5].
-
-<table align="center" id="achievements-table">
-  <thead>
-    <tr>
-      <th>Badge</th>
-      <th>Name</th>
-      <th>How to Unlock</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr data-tooltip="Create & close an issue within 10s">
-      <td><img src="assets/quickdraw.png" width="50" alt="Quickdraw"/></td>
-      <td>Quickdraw</td>
-      <td>Super-fast issue handling</td>
-    </tr>
-    <tr data-tooltip="Repo with 16+ stars">
-      <td><img src="assets/starstruck.png" width="50" alt="Starstruck"/></td>
-      <td>Starstruck</td>
-      <td>Popular repository</td>
-    </tr>
-    <tr data-tooltip="Coauthor commits on merged PR">
-      <td><img src="assets/pair-extraordinaire.png" width="50" alt="Pair Extraordinaire"/></td>
-      <td>Pair Extraordinaire</td>
-      <td>Collaborative PRs</td>
-    </tr>
-    <tr data-tooltip="2+ merged PRs">
-      <td><img src="assets/pull-shark.png" width="50" alt="Pull Shark"/></td>
-      <td>Pull Shark</td>
-      <td>Merged pull requests</td>
-    </tr>
-    <tr data-tooltip="2 accepted discussion answers">
-      <td><img src="assets/galaxy-brain.png" width="50" alt="Galaxy Brain"/></td>
-      <td>Galaxy Brain</td>
-      <td>Community expert</td>
-    </tr>
-    <!-- Add more rows from full list below -->
-  </tbody>
-</table>
-
-## 🌟 Highlights & Legacy Badges
-- **Pro**: GitHub Pro subscriber [web:6]
-- **Public Sponsor**: Sponsor open source via GitHub Sponsors
-- **Arctic Code Vault**: Contributed to 2020 archive (legacy)
-- **Mars 2020 Contributor**: Mars mission repos (no longer earnable) [web:1]
-
-**Disable Achievements**: Go to Profile Settings > Contributions & Activity > Toggle "Show achievements on your profile" off. Direct link: [github.com/settings/profile] [web:4].
-
-## 🚀 Premium Interactive Features
-- **3D Hero Globe**: Rotating animated globe with badge particles (GIF in assets).
-- **Hover Tooltips**: Detailed unlock steps on table hover.
-- **Filter/Search**: JS-powered search bar for badges.
-- **Dark/Light Mode**: Auto-toggle with GitHub theme.
-- **Progress Tracker**: Add your unlocked badges via editable JSON.
-
-## Quick Unlock Guides
-1. **Quickdraw**: Create issue > Submit > Close in <10s [web:6].
-2. **Pull Shark**: Create public repo > Edit README > PR > Merge (x2).
-3. **Starstruck**: Build useful repo, share widely for 16+ stars.
 
 <div align="center">
-  <img src="https://github.com/AshrafMorningstar/github-profile-achievements/blob/main/assets/dark-mode-preview.png?raw=true" width="300"/>
-  <img src="https://github.com/AshrafMorningstar/github-profile-achievements/blob/main/assets/mobile-interactive.gif?raw=true" width="300"/>
+
+# :star: Github Profile Achievements :star:
+
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/github-profile-achievements?style=for-the-badge&color=orange)](https://github.com/AshrafMorningstar/github-profile-achievements/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshrafMorningstar/github-profile-achievements?style=for-the-badge&color=blue)](https://github.com/AshrafMorningstar/github-profile-achievements/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshrafMorningstar/github-profile-achievements?style=for-the-badge&color=red)](https://github.com/AshrafMorningstar/github-profile-achievements/issues)
+[![GitHub license](https://img.shields.io/github/license/AshrafMorningstar/github-profile-achievements?style=for-the-badge&color=green)](./LICENSE)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
+
+**Automated, High-Performance github profile achievements Project**
+
+[View Demo (If Applicable)](#) • [Report Bug](https://github.com/AshrafMorningstar/github-profile-achievements/issues) • [Request Feature](https://github.com/AshrafMorningstar/github-profile-achievements/issues)
+
 </div>
-
-**Fork, Star, and Contribute!** Add new badges or features. Premium design optimized for your front-end style [memory:18].
-
 
 ---
 
-## 📜 Copyright & License
+## :rocket: Overview
 
-© 2026 Ashraf Morningstar. All Rights Reserved.
+**github-profile-achievements** is a state-of-the-art implementation utilizing Generic. Designed for developers looking for robust, scalable solutions in Open Source, Developer Tools, Coding Best Practices, Software Engineering.
 
-**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
+This project is a high-performance, open-source solution designed for developers and enthusiasts. It implements modern best practices and is optimized for efficiency and scalability.
 
-**License:** MIT License - See [LICENSE](./LICENSE) file for details.
+## :sparkles: Key Features
 
-**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
+- :white_check_mark: **High Performance:** Optimized for speed and low latency.
+- :white_check_mark: **Scalable Architecture:** Built to handle growth effortlessly.
+- :white_check_mark: **Modern Tech Stack:** Utilizes latest standards in Generic.
+- :white_check_mark: **Developer Friendly:** Clean code, well-documented, and easy to extend.
 
-**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
+## :hammer_and_wrench: Technologies Used
+
+
+
+## :floppy_disk: Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshrafMorningstar/github-profile-achievements.git
+   cd github-profile-achievements
+   ```
+
+2. **Install dependencies:**
+    No specific installation required.
+
+3. **Run the application:**
+    Open index.html in your browser.
+
+## :open_file_folder: Project Structure
+
+```
+github-profile-achievements/
+├── src/          # Source code
+├── assets/       # Images and static files
+├── README.md     # Project documentation
+└── LICENSE       # License information
+```
+
+## :handshake: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## :bust_in_silhouette: Author
+
+**Ashraf Morningstar**
+
+- **GitHub:** [@AshrafMorningstar](https://github.com/AshrafMorningstar)
+- **Twitter:** [@AMS_Morningstar](https://twitter.com/@AMS_Morningstar)
+- **Portfolio:** [AshrafMorningstar Projects](https://github.com/AshrafMorningstar?tab=repositories)
+
+## :page_facing_up: License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-### 🤝 Connect & Contribute
-
-Found this helpful? Give it a ⭐️ on GitHub!
-
-- 💼 Company: MORNINGSTARCONSTRUCTION
-- 📍 Location: India
-- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
-- 📧 Email: ashrafmorningstar@gmail.com
+<div align="center">
+  <p>If you find this project useful, please give it a <b>Star</b> :star:!</p>
+  <sub>Built with ❤️ by Ashraf Morningstar</sub>
+</div>
